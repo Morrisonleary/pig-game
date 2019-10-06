@@ -166,6 +166,7 @@ i {
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
+.btn-rules {top: 10px;}
 
 .dice {
     position: absolute;
